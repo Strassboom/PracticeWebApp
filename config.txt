@@ -1,0 +1,4 @@
+location = bears den,bear necessities
+need = small,medium,large
+wrapping = backpack,nothing
+rain = snow,sleet,hail
